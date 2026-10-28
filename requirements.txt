@@ -10,3 +10,4 @@ selenium
 fake-useragent
 numpy==1.26.4
 pandas==1.5.3
+pyarrow==14.0.2
